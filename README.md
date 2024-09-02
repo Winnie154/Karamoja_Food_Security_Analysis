@@ -33,7 +33,8 @@ The visualization of results provided in this study will provide more reliable a
 Below is the Link to the Tableau Dashboard:
 https://public.tableau.com/app/profile/winnie.odoyo/viz/KaramojaFoodSecurityAnalysisDashboard/KaramojaFoodSecurityDashboard?publish=yes
 
-Below is the link to the Presentation: https://www.canva.com/design/DAGPnKwKxPE/pehlx-2VJHklCOrg-B4c4A/edit?utm_content=DAGPnKwKxPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Below is the link to the Presentation: 
+https://www.canva.com/design/DAGPnKwKxPE/pehlx-2VJHklCOrg-B4c4A/edit?utm_content=DAGPnKwKxPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Below is the Link to the Notebook: https://colab.research.google.com/drive/1_EdizZhspOlQrejsAxWClfmn_2i76dJH#scrollTo=GZvcTu6ACdes
 
