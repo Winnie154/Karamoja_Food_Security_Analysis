@@ -25,10 +25,9 @@ The visualization of results provided in this study will provide more reliable a
 ## Processes
 - Data Understanding
 - Data Preparation and Cleaning
-- Data Modeling
 - Data visualization with Tableau
 - Data Evaluation
-- Conclusion
+- Conclusion and Recommendations
 
 ## Links
 Below is the Link to the Tableau Dashboard:
