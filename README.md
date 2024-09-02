@@ -35,7 +35,7 @@ https://public.tableau.com/app/profile/winnie.odoyo/viz/KaramojaFoodSecurityAnal
 
 Below is the link to the Presentation:
 
-Below is the Link to the Notebook:
+Below is the Link to the Notebook: https://colab.research.google.com/drive/1_EdizZhspOlQrejsAxWClfmn_2i76dJH#scrollTo=GZvcTu6ACdes
 
 
 ## Technologies Used
